@@ -8,10 +8,7 @@ main:
     
   - title: "Research"
     url: /portfolio/
-    - title: "OFDFT"
-      url: /talks/
-    - title: "Density Embedding"
-      url: /talks/  
+
   - title: "Science Blogs"
     url: /year-archive/
     
@@ -19,4 +16,4 @@ main:
     url: /cv/
     
   - title: "Home"
-#    url: /markdown/
+    url: /markdown/
