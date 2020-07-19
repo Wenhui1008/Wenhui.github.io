@@ -1,19 +1,20 @@
 # main links links
 main:
+  - title: "Home"
+    url: /markdown/
+
+  - title: "Research"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
     
-  - title: "Research"
-    url: /portfolio/
-
   - title: "Science Blogs"
     url: /year-archive/
     
   - title: "About me"
     url: /cv/
     
-  - title: "Home"
-    url: /markdown/
