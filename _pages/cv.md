@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Jinlin, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **2016** --Ph.D in Condensed Matter Physics, State Key Lab of Superhard Materials, Jilin University, China
+Supervisor: [Prof. Dr. Yanming Ma ](http://mym.calypso.cn/mym.html)
+* **2010** --B.S in Physics, Dept. of Physics, Jilin University, China
 
-Work experience
+Professional experience
 ======
 * Summer 2015: Research Assistant
   * Github University
