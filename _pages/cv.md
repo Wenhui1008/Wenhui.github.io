@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* **2016** --Ph.D in Condensed Matter Physics, State Key Lab of Superhard Materials, Jilin University, China
+* **2016** --Ph.D in Condensed Matter Physics, State Key Lab of Superhard Materials,
+Jilin University, China
 Supervisor: [Prof. Dr. Yanming Ma ](http://mym.calypso.cn/mym.html)
 * **2010** --B.S in Physics, Dept. of Physics, Jilin University, China
 
