@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-<center>**Wenhui Mi (米文慧)**  
+**Wenhui Mi (米文慧)**  
 
 I am a Postdoctoral Assosiate in [PRG](https://sites.rutgers.edu/prg/) at [Rutgers University-Newark](https://www.newark.rutgers.edu/)  
 
@@ -15,7 +15,7 @@ Current address
 [Department of Chemistry](https://sasn.rutgers.edu/academics-admissions/academic-departments/chemistry)  
 [Rutgers University-Newark](https://www.newark.rutgers.edu/)  
 73 Warren St, Newark, NJ 07102, USA  
-Email: <wenhui.mi@rutgers.edu> / <miwenhui@gmail.com></center>
+Email: <wenhui.mi@rutgers.edu> / <miwenhui@gmail.com>
 
 # Research Interests
 
