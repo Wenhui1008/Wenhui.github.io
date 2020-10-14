@@ -17,7 +17,7 @@ redirect_from:
 <center>
 Current address
 
-[Department of Chemistry] (https://sasn.rutgers.edu/academics-admissions/academic-departments/chemistry) 
+[Department of Chemistry](https://sasn.rutgers.edu/academics-admissions/academic-departments/chemistry) 
 
 [Rutgers University-Newark](https://www.newark.rutgers.edu/)
 
@@ -39,11 +39,11 @@ Email: <wenhui.mi@rutgers.edu> / <miwenhui@gmail.com>
 † Corresponding Author   
 a These authors contributed equally
 
-* "[Nonlocal Subsystem Density Functional Theory] (https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
+* "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
 **Wenhui Mi**, and Michele Pavanello<sup>†</sup>  
 ***J. Phys. Chem. Lett.*** **11**, (1), 272 (2020)
 
-* "[DFTpy: An efficient and object‐oriented platform for orbital‐free DFT simulations] (https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1482)",  
+* "[DFTpy: An efficient and object‐oriented platform for orbital‐free DFT simulations](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1482)",  
 Xuecheng Shao<sup>†</sup>, Kaili Jiang<sup>†</sup>, **Wenhui Mi**<sup>†</sup>, Alessandro Genova, and Michele Pavanello<sup>†</sup>  
 ***WIREs: Comput. Mol. Sci.*** **e1482** (2020)
 
