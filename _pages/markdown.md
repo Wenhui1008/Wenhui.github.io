@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <center>
-## **Wenhui Mi (ç±³æ–‡æ…§)**
+## **Wenhui Mi (Ã×ÎÄ»Û)**
 
  I am a Postdoctoral Assosiate in [PRG](https://sites.rutgers.edu/prg/) at [Rutgers University-Newark](https://www.newark.rutgers.edu/)
 
