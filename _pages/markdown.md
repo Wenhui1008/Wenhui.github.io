@@ -8,11 +8,8 @@ redirect_from:
 ---
 
 <center>
-## **Wenhui Mi (米文慧)**
-
- I am a Postdoctoral Assosiate in [PRG](https://sites.rutgers.edu/prg/) at [Rutgers University-Newark](https://www.newark.rutgers.edu/)
-
-</center>
+**Wenhui Mi (米文慧)**  
+I am a Postdoctoral Assosiate in [PRG](https://sites.rutgers.edu/prg/) at [Rutgers University-Newark](https://www.newark.rutgers.edu/)</center>
 
 <center>
 Current address
@@ -40,7 +37,7 @@ Email: <wenhui.mi@rutgers.edu> / <miwenhui@gmail.com>
 a These authors contributed equally
 
 * "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
-**Wenhui Mi**, and Michele Pavanello<sup>†</sup>  
+**Wenhui Mi** and Michele Pavanello<sup>†</sup>  
 ***J. Phys. Chem. Lett.*** **11**, (1), 272 (2020)
 
 * "[DFTpy: An efficient and object‐oriented platform for orbital‐free DFT simulations](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1482)",  
@@ -48,7 +45,7 @@ Xuecheng Shao<sup>†</sup>, Kaili Jiang<sup>†</sup>, **Wenhui Mi**<sup>†</s
 ***WIREs: Comput. Mol. Sci.*** **e1482** (2020)
 
 * "[Orbital-free density functional theory correctly models quantum dots when asymptotics, nonlocality, and nonhomogeneity are accounted for](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.041105)",  
-**Wenhui Mi**, and Michele Pavanello<sup>†</sup>  
+**Wenhui Mi** and Michele Pavanello<sup>†</sup>  
 ***Phys. Rev. B-Rapid Communication*** **100**, 041105(R) (2019)
 
 * "[*Ab Initio* Structure and Dynamics of CO2 at Supercritical Conditions](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03054)",  
