@@ -8,4 +8,4 @@ date: 2018-03-19
 location: "New Orleans, LA, USA"
 ---
 
-DIVISION: Division of Physical ChemistrySESSION: Adventures in Density Functional Theory SESSION TIME: 8:30 AM - 11:45 AM
+DIVISION: Division of Physical Chemistry SESSION: Adventures in Density Functional Theory SESSION TIME: 8:30 AM - 11:45 AM
