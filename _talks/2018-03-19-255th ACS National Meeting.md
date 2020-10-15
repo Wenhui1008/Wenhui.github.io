@@ -1,0 +1,11 @@
+---
+title: "Nonlocal kinetic energy functionals by functional integration"
+collection: talks
+type: "Oral presentation"
+permalink: /talks/2018-03-19-255th ACS National Meeting
+venue: "255th ACS National Meeting"
+date: 2018-03-19
+location: "New Orleans, LA, USA"
+---
+
+DIVISION: Division of Physical ChemistrySESSION: Adventures in Density Functional Theory SESSION TIME: 8:30 AM - 11:45 AM
