@@ -1,6 +1,6 @@
 ---
 title: "Orbital-free Density functional Theory"
-excerpt: "OEPP is great! <br/><img src='/images/OEPP.png'>"
+excerpt: "OEPP is great! <br/><img src='/images/OEPP.png' width = "300" alt="OEPP" align=center/>"
 collection: portfolio
 ---
 
