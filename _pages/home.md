@@ -1,10 +1,10 @@
 ---
-permalink: /home
+permalink: /home/
 title: "Welcome to  Wenhui's Homepage"
 author_profile: true
 redirect_from: 
-  - /home
-  - /home.html
+  - /home/
+  - /home.html/
 ---
 
 **Wenhui Mi (米文慧)**  
