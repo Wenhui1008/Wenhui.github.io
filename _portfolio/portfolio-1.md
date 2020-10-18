@@ -1,8 +1,14 @@
 ---
-title: "Orbital-free Density functional Theory"
-excerpt: "OEPP is great! <br/><img src='/images/OEPP.png' width = "300" >"
+title: "Large-scale Electronic Structure Theory and Methodology"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-We need to work hard on it
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+***"The underlying physical laws necessary for the mathematical
+  theory of a large part of physics and the whole of chemistry are
+  thus completely known, and the difficulty is only that the exact
+  application of these laws leads to equations much too complicated to
+  be soluble. It therefore becomes desirable that approximate
+  practical methods of applying quantum mechanics should be developed,
+  which can lead to an explanation of the main features of complex
+  atomic systems without too much computation."***  
+  -- **Paul Dirac**, [Quantum mechanics of many-electron systems](https://royalsocietypublishing.org/doi/10.1098/rspa.1929.0094) (1929)
