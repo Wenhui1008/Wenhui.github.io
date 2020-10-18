@@ -3,14 +3,41 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+   - /md/
+  - /publications.html/ 
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Selected Publications
+????Corresponding Author
+a These authors contributed equally
 
-{% include base_path %}
+* "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",
+**Wenhui Mi** and Michele Pavanello<sup>????/sup>
+***J. Phys. Chem. Lett.*** **11**, (1), 272 (2020)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* "[DFTpy: An efficient and object‐oriented platform for orbital‐free DFT simulations](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1482)",
+Xuecheng Shao<sup>????/sup>, Kaili Jiang<sup>????/sup>, **Wenhui Mi**<sup>????/sup>, Alessandro Genova, and Michele Pavanello<sup>????/sup>
+***WIREs: Comput. Mol. Sci.*** **e1482** (2020)
+
+* "[Orbital-free density functional theory correctly models quantum dots when asymptotics, nonlocality, and nonhomogeneity are accounted for](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.041105)",
+**Wenhui Mi** and Michele Pavanello<sup>????/sup>
+***Phys. Rev. B-Rapid Communication*** **100**, 041105(R) (2019)
+
+* "[*Ab Initio* Structure and Dynamics of CO2 at Supercritical Conditions](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03054)",
+**Wenhui Mi**<sup>????/sup>, Pablo Ramos<sup>????/sup>, and Michele Pavanello<sup>????/sup>
+***J. Phys. Chem. Lett.*** **10**, (24), 7554 (2019)
+
+* "[Nonlocal kinetic energy functionals by functional integration](https://aip.scitation.org/doi/abs/10.1063/1.5023926)",
+**Wenhui Mi**, Alessandro Genova, and Michele Pavanello<sup>????/sup>
+***J. Chem. Phys.*** **148**, (18), 184107 (2018)
+
+
+* "[ATLAS: A real-space finite-difference implementation of orbital-free density functional theory](https://www.sciencedirect.com/science/article/pii/S0010465515004154)",
+**Wenhui Mi**<sup>a</sup>, Xuecheng Shao<sup>a</sup>, Chuanxun Su, Yuanyuan Zhou, Shoutao Zhang, Quan Li, Hui Wang, Lijun Zhang, Maosheng Miao, Yanchao Wang<sup>????/sup>, Yanming Ma<sup>????/sup>
+***Comput. Phys. Commun.*** **200**, (18), 87-95 (2016)
+
+* "[First-principle optimal local pseudopotentials construction via optimized effective potential method](https://aip.scitation.org/doi/abs/10.1063/1.4944989)",
+**Wenhui Mi**, Shoutao Zhang, Yanchao Wang<sup>????/sup>, Yanming Ma<sup>????/sup>, Maosheng Miao<sup>????/sup>
+***J. Chem. Phys.*** **144**, 134108 (2016)
+
