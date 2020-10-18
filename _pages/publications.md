@@ -3,10 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /markdown/
+  - /makrkdown.html/
 ---
 
 # Selected Publications
-????Corresponding Author
+Corresponding Author
 a These authors contributed equally
 
 * "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",
