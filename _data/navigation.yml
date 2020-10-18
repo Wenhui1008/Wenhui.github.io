@@ -12,8 +12,8 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "Science Blogs"
-    url: /year-archive/
+#  - title: "Science Blogs"
+#    url: /year-archive/
     
   - title: "About me"
     url: /cv/
