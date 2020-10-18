@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 † Corresponding Author   
-a These authors contributed equally
+a These authors contributed equally  
 
 * "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
 **Wenhui Mi** and Michele Pavanello<sup>†</sup>  
@@ -29,8 +29,10 @@ Xuecheng Shao<sup>†</sup>, Kaili Jiang<sup>†</sup>, **Wenhui Mi**<sup>†</s
 
 * "[Nonlocal kinetic energy functionals by functional integration](https://aip.scitation.org/doi/abs/10.1063/1.5023926)",  
 **Wenhui Mi**, Alessandro Genova, and Michele Pavanello<sup>†</sup>  
-***J. Chem. Phys.*** **148**, (18), 184107 (2018)
-
+***J. Chem. Phys.*** **148**, (18), 184107 (2018)  
+* "[ELSI: A unified software interface for Kohn–Sham electronic structure solvers](https://www.sciencedirect.com/science/article/pii/S0010465517302941)",  
+Victor Wen-zhe Yu, Fabiano Corsetti, Alberto García, William P. Huhn, Mathias Jacqueli, Weile Jia, Björn Lange, Lin Lin, Jianfeng Lu, **Wenhui Mi**, Ali Seifitokaldani, Álvaro Vázquez-Mayagoitia, Chao Yang, Haizhao Yang, and Volker Blum<sup>†</sup>  
+***Comput. Phys. Commun.*** **222**, 267-285 (2018)
 
 * "[ATLAS: A real-space finite-difference implementation of orbital-free density functional theory](https://www.sciencedirect.com/science/article/pii/S0010465515004154)",  
 **Wenhui Mi**<sup>a</sup>, Xuecheng Shao<sup>a</sup>, Chuanxun Su, Yuanyuan Zhou, Shoutao Zhang, Quan Li, Hui Wang, Lijun Zhang, Maosheng Miao, Yanchao Wang<sup>†</sup>, Yanming Ma<sup>†</sup>  
@@ -38,4 +40,8 @@ Xuecheng Shao<sup>†</sup>, Kaili Jiang<sup>†</sup>, **Wenhui Mi**<sup>†</s
 
 * "[First-principle optimal local pseudopotentials construction via optimized effective potential method](https://aip.scitation.org/doi/abs/10.1063/1.4944989)",  
 **Wenhui Mi**, Shoutao Zhang, Yanchao Wang<sup>†</sup>, Yanming Ma<sup>†</sup>, Maosheng Miao<sup>†</sup>  
-***J. Chem. Phys.*** **144**, 134108 (2016)
+***J. Chem. Phys.*** **144**, 134108 (2016)  
+
+* "[𝒪(NlogN) scaling method to evaluate the ion–electron potential of crystalline solids](https://aip.scitation.org/doi/abs/10.1063/1.4967319)",  
+Xuecheng Shao<sup>a</sup>, **Wenhui Mi**<sup>a</sup>, Qiang Xu, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>  
+***J. Chem. Phys.*** **145**, 184110 (2016)
