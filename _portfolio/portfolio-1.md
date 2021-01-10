@@ -1,6 +1,6 @@
 ---
 title: "Large-scale Electronic Structure Theory and Methodology"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "OEPP <br/><img src='/images/500x300.png' width="400">"
 collection: portfolio
 ---
 ***"The underlying physical laws necessary for the mathematical
