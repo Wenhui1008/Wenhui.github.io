@@ -31,6 +31,7 @@ Service
 
 * Reviews of Modern Physics 
 * Physical Review Letters 
+* The Journal of Physical Chemistry Letters
 * Physical Review B
 * Physical Review A
 * Inorganic Chemistry
