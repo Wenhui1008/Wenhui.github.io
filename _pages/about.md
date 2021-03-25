@@ -23,6 +23,10 @@ Email: <wenhui.mi@rutgers.edu> / <miwenhui@gmail.com>
 	* Orbital-Free Density Functional Theory
 	* Density Embedding 
 * Softwares development for Large-scale Electronic Structure calculations  
+    * [ATLAS](http://atlas-ch.cn/)
+    * [DFTpy](http://dftpy.rutgers.edu/)
+    * [eQE](http://eqe.rutgers.edu/)
+	* [ELSI](https://wordpress.elsi-interchange.org/index.php/contacts/)
 * Large-scale / real materials simulations
 
 # Selected Publications

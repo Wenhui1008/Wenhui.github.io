@@ -12,3 +12,5 @@ collection: portfolio
   which can lead to an explanation of the main features of complex
   atomic systems without too much computation."***  
   -- **Paul Dirac**, [Quantum mechanics of many-electron systems](https://royalsocietypublishing.org/doi/10.1098/rspa.1929.0094) (1929)
+
+
