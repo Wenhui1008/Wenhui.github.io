@@ -12,5 +12,17 @@ collection: portfolio
   which can lead to an explanation of the main features of complex
   atomic systems without too much computation."***  
   -- **Paul Dirac**, [Quantum mechanics of many-electron systems](https://royalsocietypublishing.org/doi/10.1098/rspa.1929.0094) (1929)
+* Orbital-Free Density Functional Theory (OF-DFT)
+   *  Kinetic Energy Density Functionals (KEDFs)
+   *  Local pseudopotentials (LPP)
+   *  OF-DFT solver 
+* Density Embedding/Subsystem Density Functional Theory (sDFT) 
+	* Nonlocal sDFT
+	* Nonadditive KEDFs
+	* Deorbitalized Meta-GGA exchnage-correlation functionals
+* Why Orbital Free Density Functional Theory (OF-DFT)
+  * It can simulate millons atom with 1 CPU
+  * 100+ millions of atoms by parallel computing  
+   <img src="./fig/DFTpy.png" alt="图片替换文本" width="500" height="313" align="center" /> 
 
 
