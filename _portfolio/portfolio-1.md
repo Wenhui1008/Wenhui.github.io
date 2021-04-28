@@ -23,6 +23,6 @@ collection: portfolio
 * Why Orbital Free Density Functional Theory (OF-DFT)
   * It can simulate millons atom with 1 CPU
   * 100+ millions of atoms by parallel computing  
-   <img src="../files/DFTpy.png" alt="图片替换文本" width="500" height="313" align="center" /> 
+   <img src="../files/DFTpy.png" alt="DFTpy" width="500" height="313" align="center" /> 
 
 
