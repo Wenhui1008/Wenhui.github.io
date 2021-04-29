@@ -11,13 +11,30 @@ redirect_from:
 † Corresponding Author   
 a These authors contributed equally  
 
-* "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
-**Wenhui Mi** and Michele Pavanello<sup>†</sup>  
-***J. Phys. Chem. Lett.*** **11**, (1), 272 (2020)
+* "[Orbital-Free Density Functional Theory: An attractive electronic structure method for large-scale first-principles simulations]()",  
+**Wenhui Mi<sup>**, Kai Luo, S.B. Trickey, and Michele Pavanello<sup>†</sup>  
+***Chemical Reviews***  **(Invited in drafting)**  (2021)
+
+
+* "[GGA-Level Subsystem DFT Achieves Sub-kcal/mol Accuracy Intermolecular Interactions by Mimicking Nonlocal Functionals](https://arxiv.org/abs/2103.15922)",  
+Xuecheng Shao<sup>†</sup>, **Wenhui Mi<sup>†</sup>** and Michele Pavanello<sup>†</sup>  
+***J. Chem. Theory Comput.***  **(In press 2021)** 
+
+* "[eQE 2.0: Subsystem DFT Beyond GGA Functionals](https://arxiv.org/abs/2103.07556)",  
+**Wenhui Mi<sup>†</sup>**, Xuecheng Shao<sup>†</sup>,  Alessandro Genova, Davide Ceresoli<sup>†</sup>, and Michele Pavanello<sup>†</sup>  
+***arXive*** **2103.07556**,(2021)
+
+* "[Efficient DFT Solver for Nanoscale Simulations and Beyond](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00716)",  
+Xuecheng Shao<sup>†</sup>, **Wenhui Mi<sup>†</sup>** and Michele Pavanello<sup>†</sup>  
+***J. Phys. Chem. Lett.*** **12**, 4134 (2021)
 
 * "[DFTpy: An efficient and object‐oriented platform for orbital‐free DFT simulations](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1482)",  
 Xuecheng Shao<sup>†</sup>, Kaili Jiang<sup>†</sup>, **Wenhui Mi**<sup>†</sup>, Alessandro Genova, and Michele Pavanello<sup>†</sup>  
-***WIREs: Comput. Mol. Sci.*** **e1482** (2020)
+***WIREs: Comput. Mol. Sci.*** **11** (1), e1482 (2021)
+
+* "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
+**Wenhui Mi** and Michele Pavanello<sup>†</sup>  
+***J. Phys. Chem. Lett.*** **11**, (1), 272 (2020)
 
 * "[Orbital-free density functional theory correctly models quantum dots when asymptotics, nonlocality, and nonhomogeneity are accounted for](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.041105)",  
 **Wenhui Mi** and Michele Pavanello<sup>†</sup>  
