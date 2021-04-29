@@ -12,7 +12,7 @@ redirect_from:
 a These authors contributed equally  
 
 * "[Orbital-Free Density Functional Theory: An attractive electronic structure method for large-scale first-principles simulations]()",  
-**Wenhui Mi<sup>**, Kai Luo, S.B. Trickey, and Michele Pavanello<sup>†</sup>  
+**Wenhui Mi<sup>†</sup>**, Kai Luo, S.B. Trickey, and Michele Pavanello<sup>†</sup>  
 ***Chemical Reviews***  **(Invited in drafting)**  (2021)
 
 
