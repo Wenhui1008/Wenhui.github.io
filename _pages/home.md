@@ -29,6 +29,18 @@ Email: <wenhui.mi@rutgers.edu> / <miwenhui@gmail.com>
 † Corresponding Author   
 a These authors contributed equally
 
+* "[GGA-Level Subsystem DFT Achieves Sub-kcal/mol Accuracy Intermolecular Interactions by Mimicking Nonlocal Functionals](https://arxiv.org/abs/2103.15922)",
+Xuecheng Shao<sup>????/sup>, **Wenhui Mi<sup>????/sup>** and Michele Pavanello<sup>????/sup>
+***J. Chem. Theory Comput.***  **(In press 2021)**
+
+* "[eQE 2.0: Subsystem DFT Beyond GGA Functionals](https://arxiv.org/abs/2103.07556)",
+**Wenhui Mi<sup>????/sup>**, Xuecheng Shao<sup>????/sup>,  Alessandro Genova, Davide Ceresoli<sup>????/sup>, and Michele Pavanello<sup>????/sup>
+***arXive*** **2103.07556**,(2021)
+
+* "[Efficient DFT Solver for Nanoscale Simulations and Beyond](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00716)",
+Xuecheng Shao<sup>????/sup>, **Wenhui Mi<sup>????/sup>** and Michele Pavanello<sup>????/sup>
+***J. Phys. Chem. Lett.*** **12**, 4134 (2021)
+
 * "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
 **Wenhui Mi** and Michele Pavanello<sup>†</sup>  
 ***J. Phys. Chem. Lett.*** **11**, (1), 272 (2020)
