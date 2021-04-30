@@ -18,9 +18,6 @@ collection: portfolio
 * Why Orbital Free Density Functional Theory (OF-DFT)
   * It can simulate millons atom with 1 CPU
   * 100+ millions of atoms by parallel computing
-   <center class="half">
-   <img src="https://wenhui1008.github.io/files/DFTpy.png" alt="DFTpy" width="400"  align="left"/><img src="https://wenhui1008.github.io/files/100.png" alt="ATLAS" width="400"  align="center"/>
-   </center>
 
 * Orbital-Free Density Functional Theory (OF-DFT)
    *  Kinetic Energy Density Functionals (KEDFs)
