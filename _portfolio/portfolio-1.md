@@ -13,8 +13,6 @@ collection: portfolio
   atomic systems without too much computation."
   -- **Paul Dirac**, [Quantum mechanics of many-electron systems](https://royalsocietypublishing.org/doi/10.1098/rspa.1929.0094) (1929)
 
-**The electronic structure of materials can yield insights into many of the electrical, optical, and mechanical properties of materials. Real-world materials, such as nanosparticals, electronic devices, Alloys need to simulate very large (millions of atoms) systems.**
-
 * Why Orbital Free Density Functional Theory (OF-DFT)
   * It can simulate millons atom with 1 CPU
   * 100+ millions of atoms by parallel computing
@@ -23,6 +21,7 @@ collection: portfolio
    *  Kinetic Energy Density Functionals (KEDFs)
    *  Local pseudopotentials (LPP)
    *  OF-DFT solver 
+
 * Density Embedding/Subsystem Density Functional Theory (sDFT) 
 	* Nonlocal sDFT
 	* Nonadditive KEDFs
@@ -31,7 +30,7 @@ collection: portfolio
 ---
 * ### Efficient DFT Solver for Nanoscale Simulations and Beyond (OE-SCF solver)
 
-<img src="https://wenhui1008.github.io/files/Slabs.pdf" alt="OE-SCF" width="500"  align="center"/>
+<img src="https://wenhui1008.github.io/files/Slabs.png" alt="OE-SCF" width="500"  align="center"/>
 
 We present the one-orbital ensemble self-consistent field (OE-SCF), an alternative orbital-free DFT solver that extends the applicability of DFT to beyond nanoscale system sizes, retaining the accuracy required to be predictive. OE-SCF treats the Pauli potential as an external potential updating it iteratively, dramatically outperforming current solvers because only few iterations are needed to reach convergence. OE-SCF enabled us to carry out the largest ab initio simulations for silicon-based materials to date by employing only 1 CPU. We computed the energy of bulk-cut Si nanoparticles as a function of their diameter up to 16 nm, and the polarization and interface charge transfer when a Si slab is sandwiched between two metal slabs where lattice matching mandated a large contact area. Additionally, OE-SCF opens the door to adopting even more accurate functionals in orbital-free DFT simulations while still tackling large system sizes.
 
