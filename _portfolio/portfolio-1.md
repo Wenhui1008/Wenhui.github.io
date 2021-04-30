@@ -29,7 +29,16 @@ collection: portfolio
 	* Deorbitalized Meta-GGA exchnage-correlation functionals
 
 ---
-### Nonlocal Subsystem Density Functional Theory
+* ### Efficient DFT Solver for Nanoscale Simulations and Beyond (OE-SCF solver)
+
+<img src="https://wenhui1008.github.io/files/Slabs.pdf" alt="OE-SCF" width="500"  align="center"/>
+
+We present the one-orbital ensemble self-consistent field (OE-SCF), an alternative orbital-free DFT solver that extends the applicability of DFT to beyond nanoscale system sizes, retaining the accuracy required to be predictive. OE-SCF treats the Pauli potential as an external potential updating it iteratively, dramatically outperforming current solvers because only few iterations are needed to reach convergence. OE-SCF enabled us to carry out the largest ab initio simulations for silicon-based materials to date by employing only 1 CPU. We computed the energy of bulk-cut Si nanoparticles as a function of their diameter up to 16 nm, and the polarization and interface charge transfer when a Si slab is sandwiched between two metal slabs where lattice matching mandated a large contact area. Additionally, OE-SCF opens the door to adopting even more accurate functionals in orbital-free DFT simulations while still tackling large system sizes.
+
+[J. Phys. Chem. Lett. 12, 4134 (2021)](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00716)
+
+---
+* ### Nonlocal Subsystem Density Functional Theory
 
 <img src="https://wenhui1008.github.io/files/ALL.png" alt="sDFT" width="500"  align="center"/>
 
@@ -39,7 +48,7 @@ By invoking a divide-and-conquer strategy, subsystem DFT dramatically reduces th
 
 ---
 
-### LMGP Kinetic Energy Density Functional
+* ### LMGP Kinetic Energy Density Functional
 
 <img src="https://wenhui1008.github.io/files/LMGP.png" alt="LMGP" width="500"  align="center"/>
 
@@ -49,7 +58,7 @@ Million-atom quantum simulations are in principle feasible with orbital-free den
 
 ---
 
-### Mi-Genova-Pavanello (MGP) Kinetic Energy Density Functional
+* ### Mi-Genova-Pavanello (MGP) Kinetic Energy Density Functional
 
 <img src="https://wenhui1008.github.io/files/MGP.jpg" alt="MGP" width="500"  align="center"/>
 
@@ -59,7 +68,7 @@ MGP is constructed to satisfy three exact conditions: (1) a nonzero “Kinetic e
 
 ---
 
-### First-principle optimal local pseudopotentials (OEPP)
+* ### First-principle optimal local pseudopotentials (OEPP)
 
 <img src="https://wenhui1008.github.io/files/OEPP.png" alt="OEPP" width="500"  align="center"/>
 
