@@ -28,6 +28,17 @@ collection: portfolio
 	* Deorbitalized Meta-GGA exchnage-correlation functionals
 
 ---
+
+* ### Subsystem DFT Beyond GGA Functionals (eQE2)
+
+<img src="https://wenhui1008.github.io/files/Timing.png" alt="eQE2" width="500"  align="center"/>
+
+By adopting a divide-and-conquer strategy, subsystem-DFT (sDFT) can dramatically reduce the computational cost of large-scale electronic structure calculations. The key ingredients of sDFT are the nonadditive kinetic energy and exchange-correlation functionals which dominate it's accuracy. Even though, semilocal nonadditive functionals find a broad range of applications, their accuracy is somewhat limited especially for those systems where achieving balance between exchange-correlation interactions on one side and nonadditive kinetic energy on the other is crucial. In eQE 2.0, we improve dramatically the accuracy of sDFT simulations by (1) implementing nonlocal nonadditive kinetic energy functionals based on the LMGP family of functionals; (2) adapting Quantum ESPRESSO's implementation of rVV10 and vdW-DF nonlocal exchange-correlation functionals to be employed in sDFT simulations; (3) implementing "deorbitalized" meta GGA functionals (e.g., SCAN-L). We carefully assess the performance of the newly implemented tools on the S22-5 test set. eQE 2.0 delivers excellent interaction energies compared to conventional Kohn-Sham DFT and CCSD(T). The improved performance does not come at a loss of computational efficiency. We show that eQE 2.0 with nonlocal nonadditive functionals retains the same linear scaling behavior achieved in eQE 1.0 with semilocal nonadditive functionals.
+
+[arXive 2103.07556 (2021)](https://arxiv.org/abs/2103.07556)
+
+---
+
 * ### Efficient DFT Solver for Nanoscale Simulations and Beyond (OE-SCF solver)
 
 <img src="https://wenhui1008.github.io/files/Slabs.png" alt="OE-SCF" width="500"  align="center"/>
