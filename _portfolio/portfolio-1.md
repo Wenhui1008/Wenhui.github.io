@@ -84,4 +84,21 @@ MGP is constructed to satisfy three exact conditions: (1) a nonzero “Kinetic e
 
 The local pseudopotential (LPP) is an important component of orbital-free density functional theory, a promising large-scale simulation method that can maintain information on a material’s electron state. The LPP is usually extracted from solid-state density functional theory calculations, thereby it is difficult to assess its transferability to cases involving very different chemical environments. Here, we reveal a fundamental relation between the first-principles norm-conserving pseudopotential (NCPP) and the LPP. On the basis of this relationship, we demonstrate that the LPP can be constructed optimally from the NCPP for a large number of elements using the optimized effective potential method. Specially, our method provides a unified scheme for constructing and assessing the LPP within the framework of first-principles pseudopotentials. Our practice reveals that the existence of a valid LPP with high transferability may strongly depend on the element.
 
-[J. Chem. Phys. 144, 134108 (2006)](https://aip.scitation.org/doi/full/10.1063/1.4944989)
+[J. Chem. Phys. 144, 134108 (2016)](https://aip.scitation.org/doi/full/10.1063/1.4944989)
+
+---
+
+* ### Linear scaling method to evaluate the ion–electron potential of crystalline solids
+
+<img src="https://wenhui1008.github.io/files/ion.png" alt="ion" width="500"  align="center"/>
+
+We propose a simple linear scaling expression in reciprocal space for evaluating the ion–electron potential of crystalline solids. The expression replaces the long-range on-electron potential with an equivalent localized charge distribution and corresponding boundary conditions on the unit cell. Given
+that no quadratic scaling structure factor is required—as used in traditional methods—the expression
+shows the inherent linear behavior, and is well suited to simulating large-scale systems within
+orbital-free density functional theory. The scheme is implemented in the ATLAS software package and
+benchmarked by using a solid Mg body-centered cubic lattice containing tens of thousands of atoms
+in the unit cell. The test results show that the method can efficiently simulate large scale crystals with
+high computational accuracy.
+
+[J. Chem. Phys. 145, 184110 (2016)](https://aip.scitation.org/doi/full/10.1063/1.4967319)
+
