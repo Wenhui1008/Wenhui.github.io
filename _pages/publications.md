@@ -12,11 +12,11 @@ redirect_from:
 a These authors contributed equally  
 
 * "[Orbital-Free Density Functional Theory: An attractive electronic structure method for large-scale first-principles simulations]()",  
-**Wenhui Mi<sup>†</sup>**, Kai Luo, S.B. Trickey, and Michele Pavanello<sup>†</sup>  
+**Wenhui Mi**, Kai Luo, S.B. Trickey<sup>†</sup>, and Michele Pavanello<sup>†</sup>  
 ***Chemical Reviews***  **(Invited in drafting)**  (2021)
 
 
-* "[GGA-Level Subsystem DFT Achieves Sub-kcal/mol Accuracy Intermolecular Interactions by Mimicking Nonlocal Functionals](https://arxiv.org/abs/2103.15922)",  
+* "[GGA-Level Subsystem DFT Achieves Sub-kcal/mol Accuracy Intermolecular Interactions by Mimicking Nonlocal Functionals](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00283)",  
 Xuecheng Shao<sup>†</sup>, **Wenhui Mi<sup>†</sup>** and Michele Pavanello<sup>†</sup>  
 ***J. Chem. Theory Comput.***  **(In press 2021)** 
 

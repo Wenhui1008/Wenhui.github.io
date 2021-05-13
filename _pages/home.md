@@ -27,7 +27,7 @@ Email: <wenhui.mi@rutgers.edu> / <miwenhui@gmail.com>
 † Corresponding Author   
 a These authors contributed equally
 
-* "[GGA-Level Subsystem DFT Achieves Sub-kcal/mol Accuracy Intermolecular Interactions by Mimicking Nonlocal Functionals](https://arxiv.org/abs/2103.15922)",  
+* "[GGA-Level Subsystem DFT Achieves Sub-kcal/mol Accuracy Intermolecular Interactions by Mimicking Nonlocal Functionals](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00283)",  
 Xuecheng Shao<sup>†</sup>, **Wenhui Mi<sup>†</sup>** and Michele Pavanello<sup>†</sup>
 ***J. Chem. Theory Comput.***  **(In press 2021)**
 
