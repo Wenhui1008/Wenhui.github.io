@@ -17,7 +17,10 @@ Supervisor: [Prof. Dr. Yanming Ma ](http://mym.calypso.cn/mym.html)
 
 Professional experience
 ======
-* **Aug 2017 - present**
+* **Aug 2021 - present**
+
+     Professor (Tenure-track), College of Physics, Jilin University, China
+* **Aug 2017 - Aug 2021**
 
 	 Postdoc, Department of Chemistry, Rutgers Univerisity, USA
 * **Aug 2016 - Aug 2017**
