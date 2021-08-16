@@ -39,7 +39,7 @@ Xuecheng Shao<sup>†</sup>, **Wenhui Mi<sup>†</sup>** and Michele Pavanello<s
 ***J. Chem. Theory Comput.***  **17**, 3455 (2021) 
 
 * "[Efficient DFT Solver for Nanoscale Simulations and Beyond](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00716)",  
-Xuecheng Shao<sup>†</sup>, **Wenhui Mi<sup>†</sup>** and Michele Pavanello<sup>†</sup>
+Xuecheng Shao<sup>†</sup>, **Wenhui Mi<sup>†</sup>** and Michele Pavanello<sup>†</sup>  
 ***J. Phys. Chem. Lett.*** **12**, 4134 (2021)
 
 * "[Nonlocal Subsystem Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03281)",  
