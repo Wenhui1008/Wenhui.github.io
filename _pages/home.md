@@ -10,8 +10,6 @@ redirect_from:
 I am a Professor in [ICCMS](http://iccms.jlu.edu.cn/), [College of Physics](http://phy.jlu.edu.cn/) at [Jilin University](https://www.jlu.edu.cn/)  
 
 Current address  
-[International Center for Computational Method & Software, College of Physics,](http://iccms.jlu.edu.cn/)  
-[Jilin University](https://www.jlu.edu.cn/)  
 2699 Qianjin Ave., Changchun, Jilin Province 130012, China  
 Email: <mwh@calypso.cn> / <miwenhui@gmail.com>
 
