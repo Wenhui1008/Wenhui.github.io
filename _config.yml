@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Wenhui Mi"
   avatar           : "profile.jpg"
-  bio              : "Professor (tenure-track)"
+  bio              : "Professor"
   location         : "Location"
   employer         : "Jilin University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oKBXV6cAAAAJ&hl=en"# "http://yourfullgooglescholarurl.com"
-  email            : "wenhui.mi@rutgers.edu"
+  email            : "mwh@jlu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
