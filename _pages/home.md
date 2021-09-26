@@ -11,14 +11,14 @@ I am a Professor in [ICCMS](http://iccms.jlu.edu.cn/), [College of Physics](http
 
 Current address  
 2699 Qianjin Ave., Changchun, Jilin Province 130012, China  
-Email: <mwh@calypso.cn> / <miwenhui@gmail.com>
+Email: <mwh@jlu.edu.cn> / <mwh@calypso.cn>
 
 # Research Interests
 
 * Large-scale Electronic Structure Theory and Methodology devolopment.
 	* Orbital-Free Density Functional Theory
 	* Density Embedding 
-* Softwares development for Large-scale Electronic Structure calculations  
+* Software development for Large-scale Electronic Structure calculations  
 * Large-scale / real materials simulations
 
 # Selected Publications
