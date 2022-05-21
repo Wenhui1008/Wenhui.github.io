@@ -19,7 +19,7 @@ Professional experience
 ======
 * **Aug 2021 - present**
 
-     Professor (Tenure-track), College of Physics, Jilin University, China
+     Professor, College of Physics, Jilin University, China
 * **Aug 2017 - Aug 2021**
 
 	 Postdoc, Department of Chemistry, Rutgers Univerisity, USA

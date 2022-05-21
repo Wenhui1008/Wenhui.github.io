@@ -13,7 +13,11 @@ a These authors contributed equally
 
 * "[Orbital-Free Density Functional Theory: An attractive electronic structure method for large-scale first-principles simulations]()",  
 **Wenhui Mi<sup>†</sup>**, Kai Luo, S.B. Trickey<sup>†</sup>, and Michele Pavanello<sup>†</sup>  
-***Chemical Reviews***  **(Invited in drafting)**  (2021)
+***Chemical Reviews***  **(Invited in drafting)**  (2022)
+
+* "[Nonlocal pseudopotential energy density functional for orbital-free density functional theory](https://www.nature.com/articles/s41467-022-29002-3)",  
+Qiang Xu, Cheng Ma, **Wenhui Mi**, Yanchao Wang<sup>†</sup>, and Yanming Ma  
+***Nat. Commun.*** **13**, 1385 (2022)
 
 * "[eQE 2.0: Subsystem DFT Beyond GGA Functionals](https://www.sciencedirect.com/science/article/pii/S0010465521002344?dgcid=coauthor)",  
 **Wenhui Mi<sup>†</sup>**, Xuecheng Shao<sup>†</sup>,  Alessandro Genova, Davide Ceresoli<sup>†</sup>, and Michele Pavanello<sup>†</sup>  
